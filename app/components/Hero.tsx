@@ -36,7 +36,7 @@ export default function Hero() {
                 <a
               href="/assets/resume.pdf"
               download
-              className="bg-white hover:text-white text-blue-600 px-6 py-3 rounded-md font-semibold hover:bg-blue-600 transition">
+              className="bg-white hover:text-white border-solid border-2 border-blue-600  text-blue-600 px-6 py-3 rounded-md font-semibold hover:bg-blue-600 transition">
               Download Resume
             </a>
             </Button>
